@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hishijie
+=======
+hi GG1
+>>>>>>> master2.0
