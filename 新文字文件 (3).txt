@@ -1,5 +1,20 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hishijie
 =======
 hi GG1
+>>>>>>> master2.0
+=======
+hi GG1
+f
+f
+hi GG1
+f
+f
+hi GG1
+f
+f
+hi GG1
+f
+f
 >>>>>>> master2.0
